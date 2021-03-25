@@ -1,6 +1,6 @@
 # spring-boot-beginner-to-expert-course
 
-Code develped while learning Spring boot from the "Learn Spring Boot in 100 Steps - Beginner to Expert" by "Ranga Karanam". 
+Code developed while learning Spring boot from the "Learn Spring Boot in 100 Steps - Beginner to Expert" by "Ranga Karanam". 
 
 ## Learning outcomes:
 
